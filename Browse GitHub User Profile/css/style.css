@@ -1,0 +1,71 @@
+.avatar{
+    width:100%;
+    margin-left: -8.5rem;
+}
+
+body{
+    background-color: #858585;
+}
+
+.bg-dark {
+    border-color: #373a3c !important;
+}
+
+.bg-dark {
+    background-color: #373a3c !important;
+}
+
+.navbar-dark .navbar-brand {
+    color: #ccc;
+}
+
+.navbar-brand{ 
+    margin-left: 3.5rem;
+}
+
+h1{
+    margin-top: 1rem;
+    margin-left: -8.5rem;
+    font-weight: 900;
+}
+
+h3{
+    margin-top: 1rem;
+    margin-left: -8.5rem;
+}
+
+
+.lead {
+    font-weight: 800;
+}
+
+p{
+    margin-left: -8.5rem;
+}
+
+.form-control{
+    width: 120%;
+    margin-left: -8.5rem;
+}
+
+.btn-primary, .btn-primary:hover {
+    background-image: linear-gradient(#444, #444 6%, #444);
+    margin-left: -8.5rem;
+    background-repeat: no-repeat;
+    -webkit-filter: none;
+    filter: none;
+    border: 1px solid #444;
+}
+
+.list-group-item {
+    background-color: #ddd;
+}
+
+.col-md-7{
+    margin-left: -8.5rem;
+}
+
+.btn{
+    background-color: #777;
+    border: 1px solid #777;
+}
